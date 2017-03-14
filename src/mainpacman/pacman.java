@@ -1,5 +1,5 @@
 package mainpacman;
-
+ 
 public class pacman {
     int up,down,left,right;
     int x=10,y=10,i,j,w=1,z=3,a=0,b=0,c=0;

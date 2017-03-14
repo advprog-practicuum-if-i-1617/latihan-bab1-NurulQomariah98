@@ -2,7 +2,7 @@ package mainpacman;
 import java.util.Scanner;
 
 /**
- *
+ * 
  * @author Compaq
  */
 public class MainPacman {
